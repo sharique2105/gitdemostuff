@@ -49,8 +49,10 @@ print("Git testing 1")
 print("Git testing 2")
 
 print("Git testing 3")
-print("Git testing 4"
-      )
+print("Git testing 4")
+
+print("Architect framework change 1")
+print("Architect framework change 2")
 
 
 
